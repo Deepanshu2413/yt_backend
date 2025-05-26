@@ -3,6 +3,10 @@
 - with all and all -- production grade tools and
 
 - uploading image 
-    1. 'temp' upload on db - so while connection lost , it still work
-    2.  then after all the process take their place then we upload image on cloudanary 
+    >'temp' upload on db - so while connection lost , it still work
+     
+    >  then after all the process take their place then we upload image on cloudanary 
     
+
+- prettier 
+    > prevante grp work code coligion. 
