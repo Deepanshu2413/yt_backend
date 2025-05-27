@@ -5,8 +5,16 @@
 - uploading image 
     >'temp' upload on db - so while connection lost , it still work
      
-    >  then after all the process take their place then we upload image on cloudanary 
+    > then after all the process take their place then we upload image on cloudanary 
     
 
 - prettier 
     > prevante grp work code coligion. 
+
+- database Connection
+    > must {try , catch} or {promisi - reject, resolve}
+    > async ,await - bcz your db is always in different continent 
+
+- js
+    > iife ()()
+    > async ;( async() => {})()
