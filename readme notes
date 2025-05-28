@@ -18,3 +18,7 @@
 - js
     > iife ()()
     > async ;( async() => {})()
+- API and custom API / Error handling 
+    > 
+- cors
+    > cross origin 
