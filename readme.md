@@ -1,4 +1,18 @@
-#professional back end start from here 
+#professional back_end 
+> dependencies": {
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1",
+    "mongoose-aggregate-paginate-v2
+    "multer": "^2.0.0"
+  },
+> devDependencies: {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.5.3"
+  }
 
 - with all and all -- production grade tools and
 
