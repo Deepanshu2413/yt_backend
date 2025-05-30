@@ -25,7 +25,11 @@
 - brcypt 
     > filenameSchema.pre //  .pre method can change or gets activies just before saving data
     > custome methods 
+
 - JWT 
     > it is a bearer token 
     > access token = temp, 1d , not save in db
     > refresh token  = long term , 10d approx , saved in db : 
+
+- file and data upload 
+    > file and video upload
