@@ -54,3 +54,11 @@
     > always divide a major task into small tasks into steps 
     > req from body 
     
+- subscriber model 
+    > channel -- 
+    > subscriber -- 
+
+    a new document forms when a new user sub to a channel {chennel , user} like this 
+
+- aggregation pipeline
+    
