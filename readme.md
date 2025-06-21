@@ -49,3 +49,8 @@
     > file and video upload
     > cloudinary - fs - file system
     > 
+
+- controller 
+    > always divide a major task into small tasks into steps 
+    > req from body 
+    
